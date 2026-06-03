@@ -1,5 +1,5 @@
 {
-    "Token": "Simbólico",
+    "Token": "Token",
     "Your bot token from the discord developers portal": "Tu token de bot del portal de desarrolladores de discord",
     "Members": "Miembros",
     "Channels": "Canales",
@@ -180,7 +180,7 @@
     "List of custom commands and their options.": "Lista de comandos personalizados y sus opciones.",
     "Do something usefull": "Haz algo útil",
     "Command options": "Opciones de comando",
-    "String": "Cuerda",
+    "String": "Cadena",
     "Number": "Número",
     "Boolean": "booleano",
     "Mentionable": "Mencionable",
